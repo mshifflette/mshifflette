@@ -7,7 +7,7 @@
 
 Thank's for clicking my profile. My name's Marco Shifflette and I am a SWE student at SJSU!
 
-If I'm not at my desk wriitng code I'm probably... 
+If I'm not at my desk writing code I'm probably... 
 <ul>
 <li>✈️ Traveling the world!
 </li>
