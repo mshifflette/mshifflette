@@ -1,6 +1,6 @@
 
 
-<h2>I'm Marco and I'm a </h2> 
+<h2>Hey 👋 I'm Marco and I'm a </h2> 
 <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=300&center=false&vCenter=true&width=300&height=50&lines=Developer;Lifelong+Learner;Gamer;" alt="Typing SVG" /></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
