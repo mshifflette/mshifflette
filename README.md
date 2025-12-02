@@ -9,13 +9,13 @@ Thank's for clicking my profile. My name's Marco Shifflette and I am a SWE stude
 
 If I'm not at my desk wriitng code I'm probably... 
 <ul>
-<li>Traveling the world!
+<li>✈️ Traveling the world!
 </li>
-<li>Cramming for my finals. 
+<li>📚 Cramming for my finals. 
 </li>
-<li>Making another cup of coffee.
+<li>☕️ Making another cup of coffee.
 </li>
-<li>Studying leetcode. 
+<li>🤓 Studying leetcode. 
 </li>
 </ul>
 
