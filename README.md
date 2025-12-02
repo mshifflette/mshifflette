@@ -25,7 +25,7 @@ I'm always looking to learn new technologies and collaborating on projects is so
 
 <p align="center">
 <a href="mailto:marco.shifflette@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-marco.shifflette@gmail.com-green"></a>
-<a href="https://www.linkedin.com/in/marco-shifflette/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-marco-shifflette-blue"></a>
+<a href="https://www.linkedin.com/in/marco-shifflette/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-marco--shifflette-blue"></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
